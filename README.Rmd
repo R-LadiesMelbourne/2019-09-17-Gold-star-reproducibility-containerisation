@@ -1,0 +1,15 @@
+---
+title: "README"
+author: "Saras Windecker"
+date: "18/09/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Gold star reproducibility: straightforward containerisation with open-source tools
+
+Presented by [Saras Windecker]()
